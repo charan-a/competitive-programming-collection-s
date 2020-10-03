@@ -1,1 +1,0 @@
-{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: exm","srcPath":"d:\\Documents\\preparation\\coding\\codes\\rough work\\exm.py","tests":[{"id":1599135342904,"input":"1 2 3 4 5 6 7 8\n4\n1 4\n5 5\n7 8\n8 8","output":"43"}],"timeLimit":3000,"url":"d:\\Documents\\preparation\\coding\\codes\\rough work\\exm.py"}
